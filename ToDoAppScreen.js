@@ -6,7 +6,7 @@ class App extends Component {
             <div className="screen">
                 <h1 className="ui heading center">Welcome to ToDo List App</h1>
                 <div>
-                    <button> Add Task </button>
+                    <button className="ui secondary button"> Add Task </button>
                 </div>
             </div>
         );
